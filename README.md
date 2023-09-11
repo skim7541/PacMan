@@ -12,7 +12,7 @@ This project demonstrates my ability to:
 - Use HTML, CSS, and JavaScript to bring a classic game character to life.
 - Handle animation and user interaction.
 
-![Pac-Man](./images/PacMan1.png)
+![Pac-Man](./PacMan1.png)
 
 ## Technologies Used
 
