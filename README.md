@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! My name is [Your Name], and I'm a passionate beginner in web development. Welcome to my Pac-Man game project, where I've implemented a simple Pac-Man animation using HTML, CSS, and JavaScript. This project is part of my portfolio, showcasing my early efforts and enthusiasm for web development.
+Hello! My name is Sarah Kim, and I'm a passionate beginner in web development. Welcome to my Pac-Man game project, where I've implemented a simple Pac-Man animation using HTML, CSS, and JavaScript. This project is part of my portfolio, showcasing my early efforts and enthusiasm for web development.
 
 ## Project Overview
 
