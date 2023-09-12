@@ -31,4 +31,4 @@ To run this Pac-Man game locally, follow these steps:
 ## How to Play
 
 - Click anywhere on the screen to start Pac-Man's movement.
-- Pac-Man will move back and forth, changing direction at the screen edges.
+- As Pac-Man will move, click on the Pac-Man and it will move back and forth, changing direction at the screen edges.
