@@ -9,7 +9,7 @@
             position: absolute;
             width: 50px;
             height: 50px;
-            cursor: pointer; /* Add this to make the cursor change on hover */
+            cursor: pointer;
         }
     </style>
 </head>
@@ -51,10 +51,8 @@
             }
         }
 
-        // Add a click event listener to the Pac-Man element
         var pacman = document.getElementById('pacman');
         pacman.addEventListener('click', function () {
-            // Toggle the direction when clicked
             direction = 1 - direction;
         });
 
